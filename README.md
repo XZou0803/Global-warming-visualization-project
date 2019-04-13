@@ -199,8 +199,10 @@ This graph is made by Tableau, and which strip represent a year's temperature an
 2. Global warming trend (by Tableau)
 ![Pic7](images/Graph2.png)
 
-3. Global warming trend comparing different areas(by Ploty)
+3. Global warming trend comparing different areas(by Plotly)
 ![Pic8](images/Graph1.png)
 
-4. Global warming trend of the 95% confidence interval(by Ploty)
+4. Global warming trend of the 95% confidence interval(by Plotly)
 ![Pic9](images/Graph3.png)
+
+------END OF THE DUCUMENT-------

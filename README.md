@@ -88,11 +88,11 @@ The goal for visualization accurately show the data without misrepresenting. Thi
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
 Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 4
- | Fitness | Fit one page(1); Fit for mobile(1) | 2
+--- | Fitness | Fit one page(1); Fit for mobile(1) | 2
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
- | Movement | Story line(1), animation/filters(1) | 2
+--- | Movement | Story line(1), animation/filters(1) | 2
  Communication | Goal | Accurately show the data(2); Choose the best chart(2) | 4
- | Audience | Involved-- Specific to your audience(1);Easy understanding(1) |2 
+--- | Audience | Involved-- Specific to your audience(1);Easy understanding(1) |2 
  
 ## Evaluate five charts
 

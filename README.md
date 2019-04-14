@@ -15,7 +15,7 @@ The framework is based on the article published in 2013, Stephanie and Chris foc
 }
 
 ```
-Simplification helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out[Evergreen, Stephanie;Metzner, Chris，2013].The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[Emma Perk,Lyssa Wilson Becho，2019](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf).And space should be distributed evenly[Anderson, Melissa，2017]（https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/）.
+Simplification helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out[Evergreen, Stephanie;Metzner, Chris，2013].The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[(Emma Perk,Lyssa Wilson Becho，2019)](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf).And space should be distributed evenly[(Anderson, Melissa，2017)](https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/）.
 
 ```
 @misc{Emma,
@@ -207,8 +207,10 @@ This graph is made by Tableau, and which strip represent a year's temperature an
 
 ## References
 
-Evergreen, Stephanie;Metzner, Chris. (2013, December 10). Design Principles for Data Visualization in Evaluation. New Directions for Evaluation; Winter2013, Vol. 2013 Issue 140, p5-20, 16p
-Emma Perk,Lyssa Wilson Bech. (2019). DO's and Don'ts-Basic Principles of Data Visualization. Retrieved from http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf
-Anderson, Melissa. (2017). Data Visualization and the 9 Fundamental Design Principles. Retrieved from https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/
+1.Evergreen, Stephanie;Metzner, Chris. (2013, December 10). Design Principles for Data Visualization in Evaluation. New Directions for Evaluation; Winter2013, Vol. 2013 Issue 140, p5-20, 16p
+
+2.Emma Perk,Lyssa Wilson Bech. (2019). DO's and Don'ts-Basic Principles of Data Visualization. Retrieved from http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf
+
+3. Anderson, Melissa. (2017). Data Visualization and the 9 Fundamental Design Principles. Retrieved from https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/
 
 ------END OF THE DUCUMENT-------

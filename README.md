@@ -30,7 +30,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
  
 ## 3.Evaluate five charts
 
-1. Visualization one
+### 1. Visualization one
 
 ![Pic1](images/Picture1.png)
 
@@ -50,7 +50,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 Conclusion : (14 out of 18)This chart provided good evidence for the effect of human activates, the emission-based RF of a compound can be reported, which provides a more direct link to human activities.And the last row was applied on a grey background with a red bar, which is very stand out. The important data is also emphasized. 
 The problem is too many colors are used, and data was not ordered and hard to follow. 
 
-2. Visualization two
+### 2. Visualization two
 
 ![Pic2](images/Picture2.png)
 
@@ -69,7 +69,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 
 Conclusion : (17 out of 18) This graph is very nice to show the difference in the impact of natural and human activities. And it is clear that human activities play an important role in global warming. Color is wisely used in this case. And it is easy understanding. It will be perfect if the graph has some interactive functions.
 
-3. Visualization three
+### 3. Visualization three
 
 ![Pic3](images/Picture3.png)
 
@@ -88,7 +88,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 Conclusion : (15 out of 18)This graph shows the trend of global warming, and it reached the goal. The graph is very clear and has a high data-ink ratio and good data-density. And the filters can let readers choose what they are interested. 
 The problem are: 1.The title is not included in the graph; 2.Dash line is not included in the legend; 3. Need more information for the legends for better understanding.
 
-4. Visualization four
+### 4. Visualization four
 
 ![Pic4](images/Picture4.png)
 
@@ -107,7 +107,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 Conclusion : (11 out of 18) From the article, this graph want to show a direct Evidence of Fossil Fuel Derived CO2 in the Atmosphere. While the concentration of carbon has increased, the carbon originating from natural sources has decreased.But it is lack of necessary axis and title, thus it is confused. It do have a good weight of data but the grid is unnecessary in this case.
 Also, some lines are cut off with no discription so we don’t know whether it shows the data accurately.
 
-5. Visualization five
+### 5. Visualization five
 
 ![Pic5](images/Picture5.png)
 
@@ -134,19 +134,19 @@ The second visualization is the best among the five charts, the choice of the li
  ## 4. My visualizations
  
  
- 1. Replicate the warming strips
+ ### 1. Replicate the warming strips
  
 ![Pic6](images/Graph4.png)
 
 This graph is made by Tableau, and which strip represent a year's temperature anomaly. And it is interactive.
 
-2. Global warming trend (by Tableau)
+### 2. Global warming trend (by Tableau)
 ![Pic7](images/Graph2.png)
 
-3. Global warming trend comparing different areas(by Plotly)
+### 3. Global warming trend comparing different areas(by Plotly)
 ![Pic8](images/Graph1.png)
 
-4. Global warming trend of the 95% confidence interval(by Plotly)
+### 4. Global warming trend of the 95% confidence interval(by Plotly)
 ![Pic9](images/Graph3.png)
 
 ## References

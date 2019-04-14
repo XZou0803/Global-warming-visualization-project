@@ -31,6 +31,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 ## 3.Evaluate five charts
 
 1. Visualization one
+
 ![Pic1](images/Picture1.png)
 
 
@@ -50,6 +51,7 @@ Conclusion : (14 out of 18)This chart provided good evidence for the effect of h
 The problem is too many colors are used, and data was not ordered and hard to follow. 
 
 2. Visualization two
+
 ![Pic2](images/Picture2.png)
 
 
@@ -68,6 +70,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 Conclusion : (17 out of 18) This graph is very nice to show the difference in the impact of natural and human activities. And it is clear that human activities play an important role in global warming. Color is wisely used in this case. And it is easy understanding. It will be perfect if the graph has some interactive functions.
 
 3. Visualization three
+
 ![Pic3](images/Picture3.png)
 
 
@@ -86,6 +89,7 @@ Conclusion : (15 out of 18)This graph shows the trend of global warming, and it 
 The problem are: 1.The title is not included in the graph; 2.Dash line is not included in the legend; 3. Need more information for the legends for better understanding.
 
 4. Visualization four
+
 ![Pic4](images/Picture4.png)
 
 
@@ -104,6 +108,7 @@ Conclusion : (11 out of 18) From the article, this graph want to show a direct E
 Also, some lines are cut off with no discription so we don’t know whether it shows the data accurately.
 
 5. Visualization five
+
 ![Pic5](images/Picture5.png)
 
 

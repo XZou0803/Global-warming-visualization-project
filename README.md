@@ -3,7 +3,7 @@
 ##  Literature research
 
 
-The framework is based on the article published in 2013, Stephanie and Chris focus on two main concepts that work from models of cognition to support meaningful data visualizations— simplification and emphasis. [@Steph]
+The framework is based on the article published in 2013, Stephanie and Chris focus on two main concepts that work from models of cognition to support meaningful data visualizations— simplification and emphasis. [@Evergreen, Stephanie;Metzner, Chris，2013]
 
 ```
 @misc{Steph,
@@ -15,7 +15,7 @@ The framework is based on the article published in 2013, Stephanie and Chris foc
 }
 
 ```
-Simplification helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out[@Steph].The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[@Emma].And space should be distributed evenly[@Anderson].
+Simplification helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out[Evergreen, Stephanie;Metzner, Chris，2013].The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[Emma Perk,Lyssa Wilson Becho，2019](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf).And space should be distributed evenly[Anderson, Melissa，2017]（https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/）.
 
 ```
 @misc{Emma,
@@ -101,7 +101,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 
 
 
-[Pic1](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf)
+[Pic1 link](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf)
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -120,7 +120,7 @@ The problem is too many colors are used, and data was not ordered and hard to fo
 
 
 
-[Pic2](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf)
+[Pic2 link](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf)
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -137,7 +137,7 @@ Conclusion : (17 out of 18) This graph is very nice to show the difference in th
 ![Pic3](images/Picture3.png)
 
 
-[Pic3](https://www.carbonbrief.org/qa-how-do-climate-models-work)
+[Pic3 link](https://www.carbonbrief.org/qa-how-do-climate-models-work)
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -155,7 +155,7 @@ The problem are: 1.The title is not included in the graph; 2.Dash line is not in
 ![Pic4](images/Picture4.png)
 
 
-[Pic4](https://www.ucsusa.org/global-warming/science-and-impacts/science/human-contribution-to-gw-faq.html)
+[Pic4 link](https://www.ucsusa.org/global-warming/science-and-impacts/science/human-contribution-to-gw-faq.html)
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -173,7 +173,7 @@ Also, some lines are cut off so we don’t know whether it shows the data accura
 ![Pic5](images/Picture5.png)
 
 
-[pic5](https://en.wikipedia.org/wiki/Global_warming_controversy)
+[pic5 link](https://en.wikipedia.org/wiki/Global_warming_controversy)
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -204,5 +204,11 @@ This graph is made by Tableau, and which strip represent a year's temperature an
 
 4. Global warming trend of the 95% confidence interval(by Plotly)
 ![Pic9](images/Graph3.png)
+
+## References
+
+Evergreen, Stephanie;Metzner, Chris. (2013, December 10). Design Principles for Data Visualization in Evaluation. New Directions for Evaluation; Winter2013, Vol. 2013 Issue 140, p5-20, 16p
+Emma Perk,Lyssa Wilson Bech. (2019). DO's and Don'ts-Basic Principles of Data Visualization. Retrieved from http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf
+Anderson, Melissa. (2017). Data Visualization and the 9 Fundamental Design Principles. Retrieved from https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles/
 
 ------END OF THE DUCUMENT-------

@@ -3,15 +3,13 @@
 ##  1. Literature research
 
 
-The framework is based on the article published in 2013, Stephanie and Chris focus on two main concepts that work from models of cognition to support meaningful data visualizations— simplification and emphasis.(Evergreen, Stephanie;Metzner, Chris，2013)
+The framework is mainly based on the article published in 2013, Stephanie and Chris focus on two main concepts that work from models of cognition to support meaningful data visualizations— simplification and emphasis(Evergreen, Stephanie;Metzner, Chris，2013), and combined several new conceptions.
 
-Simplification helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out(Evergreen, Stephanie;Metzner, Chris，2013).The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[(Emma Perk,Lyssa Wilson Becho，2019)](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf).And space should be distributed evenly[(Anderson, Melissa，2017)](https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles).
+**Simplification** helps readers focus on the data, for color, it means the number of the color should be simplified. Instead of using different colors, secondary information or data points should be simplified to a shade of gray so that chosen elements can appropriately stand out(Evergreen, Stephanie;Metzner, Chris，2013).The same with shape and texture, a good visualization work won’t use too much chart junk or add unnecessary charts[(Emma Perk,Lyssa Wilson Becho，2019)](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf).And space should be distributed evenly[(Anderson, Melissa，2017)](https://www.idashboards.com/blog/2017/07/26/data-visualization-and-the-9-fundamental-design-principles).Also,a simplify visualization should fit one page for better reading and fit for a mobile device as well, because of the popularity of smartphone[(Mico Yuk, Stephanie Diamond, 2014)](https://www.dummies.com/programming/big-data/big-data-visualization/evaluating-data-visualizations). 
 
-A simplify visualization should fit one page for better reading and fit for a mobile device as well, because of the popularity of smartphone[(Mico Yuk, Stephanie Diamond, 2014)](https://www.dummies.com/programming/big-data/big-data-visualization/evaluating-data-visualizations). 
-
-The second key criteria is emphasis. It also includes two metrics: Basic Design and Movement. In basic design metrics, the color should be chosen wisely. For example, yellow is a good example of a popular color choice when a designer needs to call attention to a specific area. However, certain color combinations, such as red–green or blue– yellow, cause difficulty for people with color blindness and should generally be avoided(Evergreen, Stephanie;Metzner, Chris，2013); And data-ink ratio, data-density was called by Tufte(Tufte, 2001) Weight requests your visualization have difference in weight ratio, such as changing the size of some points in a scatter plot. The movement includes story line and animation/filters, they are good practices to draw the reader’s attention. 
+The second key criteria is **emphasis**. It also includes two metrics: Basic Design and Movement. In basic design metrics, the color should be chosen wisely. For example, yellow is a good example of a popular color choice when a designer needs to call attention to a specific area. However, certain color combinations, such as red–green or blue– yellow, cause difficulty for people with color blindness and should generally be avoided(Evergreen, Stephanie;Metzner, Chris，2013); And data-ink ratio, data-density was called by Tufte(Tufte, 2001) Weight requests your visualization have difference in weight ratio, such as changing the size of some points in a scatter plot. The movement includes story line and animation/filters, they are good practices to draw the reader’s attention. 
  
-My framework is based on this article from Stephanie and Chris. And considering the important role that communication plays in visualization, I also included it to the key criteria. In Jennifer’s blog[(Jennifer,2018)](http://www.evalu-ate.org/blog/bellville_mar18), the three questions below have been raised:
+My framework is mainly based on this article from Stephanie and Chris. And considering the important role that **communication** plays in visualization, I also included it to the key criteria. In Jennifer’s blog[(Jennifer,2018)](http://www.evalu-ate.org/blog/bellville_mar18), the three questions below have been raised:
 
 1.	What is the goal of the document?
 2.	Who is the audience?
@@ -19,7 +17,7 @@ My framework is based on this article from Stephanie and Chris. And considering 
 
 The goal for visualization accurately show the data without misrepresenting. This is very essential for communication. And you should choose the best chart to reach this goal[(Emma Perk,Lyssa Wilson Becho，2019)](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf). And your visualization should be audience-friendly, which means it is easy understanding and specific to your audience[(Emma Perk,Lyssa Wilson Becho，2019)](http://www.evalu-ate.org/wp-content/uploads/formidable/14/Dos-and-Donts-Handout-FCRD.pdf). 
 
-## The framework
+## 2. The framework
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
@@ -30,7 +28,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
  Communication | Goal | Accurately show the data(2); Choose the best chart(2) | 4
 --- | Audience | Involved-- Specific to your audience(1);Easy understanding(1) |2 
  
-## 2.Evaluate five charts
+## 3.Evaluate five charts
 
 1. Visualization one
 ![Pic1](images/Picture1.png)
@@ -103,7 +101,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 --- | Audience | Involved-- Specific to your audience(1);Easy understanding(1) |1 
 
 Conclusion : (11 out of 18) From the article, this graph want to show a direct Evidence of Fossil Fuel Derived CO2 in the Atmosphere. While the concentration of carbon has increased, the carbon originating from natural sources has decreased.But it is lack of necessary axis and title, thus it is confused. It do have a good weight of data but the grid is unnecessary in this case.
-Also, some lines are cut off so we don’t know whether it shows the data accurately.
+Also, some lines are cut off with no discription so we don’t know whether it shows the data accurately.
 
 5. Visualization five
 ![Pic5](images/Picture5.png)
@@ -123,11 +121,15 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 
 Conclusion : (10 out of 18) The graph is well structured and include the necessary title, legends and arises. But it contains too much data in such a small area and the daily irradiance can’t show any important information here. Also, although we can tell that there are solar circle variations exist, it didn’t show the relationship for global warming, the evidence is weak for global warming controversy.
 
+**Overall**:
 
- ## 3. My visualizations
+The second visualization is the best among the five charts, the choice of the line chart and colors are preciseness. All the information showed on this visualization is necessary and contributed to interpreting how natural and human activities influenced warming. The global map also involved audiences to think deeply about the issue. On the other hand, visualization four and five are not qualified, mainly because they lack important information about the data or failed to interpret the argument.
+
+
+ ## 4. My visualizations
  
  
-  1. Replicate the warming strips
+ 1. Replicate the warming strips
  
 ![Pic6](images/Graph4.png)
 

@@ -65,7 +65,7 @@ A simplify visualization should fit one page for better reading and fit for a mo
 
 ```
 
-The second key criteria is **emphasis**. It also includes two metrics: Basic Design and Movement. In basic design metrics, the color should be chosen wisely. For example, yellow is a good example of a popular color choice when a designer needs to call attention to a specific area. However, certain color combinations, such as red–green or blue– yellow, cause difficulty for people with color blindness and should generally be avoided[@Evergreen]; And data-ink ratio, data-density was called by Tufte[@Tufte] Weight requests your visualization have difference in weight ratio, such as changing the size of some points in a scatter plot. The movement includes story line and animation/filters, they are good practices to draw the reader’s attention. 
+The second key criteria is **emphasis**. It also includes two metrics: Basic Design and Movement. In basic design metrics, the color should be chosen wisely. For example, yellow is a good example of a popular color choice when a designer needs to call attention to a specific area. However, certain color combinations, such as red–green or blue– yellow, cause difficulty for people with color blindness and should generally be avoided[@Evergreen]; And data-ink ratio, data-density was called by Tufte[@Tufte]. Weight requests your visualization have difference in weight ratio, such as changing the size of some points in a scatter plot. The movement includes story line and animation/filters, they are good practices to draw the reader’s attention. 
  
  ```
 @misc{Tufte,
@@ -101,7 +101,7 @@ The goal for visualization accurately show the data without misrepresenting. Thi
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 4
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 4
 ---| Fitness | Fit one page(1); Fit for mobile(1) | 2
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
 --- | Movement | Story line(1), animation/filters(1) | 2
@@ -117,7 +117,7 @@ Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-de
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 3
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 3
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 1
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
 --- | Movement | Story line(1), animation/filters(1) | 0
@@ -134,7 +134,7 @@ The problem is too many colors are used, and data was not ordered and hard to fo
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 4
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 4
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 1
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
 --- | Movement | Story line(1), animation/filters(1) | 2
@@ -151,7 +151,7 @@ Conclusion : (17 out of 18) This graph is very nice to show the difference in th
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 3
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 3
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 2
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
 --- | Movement | Story line(1), animation/filters(1) | 1
@@ -168,7 +168,7 @@ The problem are: 1.The title is not included in the graph; 2.Dash line is not in
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 3
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 3
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 2
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 3
 --- | Movement | Story line(1), animation/filters(1) | 0
@@ -186,7 +186,7 @@ Also, some lines are cut off so we don’t know whether it shows the data accura
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Color number(1),shape(1),texture(1),space(1) | 4
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 4
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 2
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 2
 --- | Movement | Story line(1), animation/filters(1) | 0
@@ -206,7 +206,7 @@ The second visualization is the best among the five charts, the choice of the li
  
 ![Pic6](images/Graph4.png)
 
-This graph is made by Tableau, and which strip represent a year's temperature anomaly. And it is interactive.
+This graph is made by Tableau, and each strip represent a year's temperature anomaly. And it is interactive.
 
 ### 2. Global warming trend (by Tableau)
 ![Pic7](images/Graph2.png)

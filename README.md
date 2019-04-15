@@ -60,7 +60,7 @@ The problem is too many colors are used, and data was not ordered and hard to fo
 
 Key Criteria | Metrics | Description | Max Points
 ------------ | ------------- |------------- |-------------
-Simplification | Basic Design | Number of Colors number(1),shape(1),texture(1),space(1) | 4
+Simplification | Basic Design | Number of Colors(1),shape(1),texture(1),space(1) | 4
 --- | Fitness | Fit one page(1); Fit for mobile(1) | 1
 Emplasis | Basic Design | Color choice(1), weight(1), data-ink ratio(1), data-density(1) | 4
 --- | Movement | Story line(1), animation/filters(1) | 2
